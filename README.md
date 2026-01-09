@@ -15,3 +15,7 @@ data is transferred using DMA, and UART transmission logic is implemented.
 - Bare-metal not used
 - UART output logic is implemented in code
 - Project tested up to build stage
+
+
+https://github.com/user-attachments/assets/e557dd71-8db6-4926-9138-d5704c833566
+
